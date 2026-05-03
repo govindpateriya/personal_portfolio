@@ -121,7 +121,7 @@ export const Hero = () => {
                   <br />
                   &nbsp;&nbsp;name: <span className="text-foreground/90">"Govind Pateriya"</span>,
                   <br />
-                  &nbsp;&nbsp;role: <span className="text-foreground/90">"Performance Architect"</span>,
+                  &nbsp;&nbsp;role: <span className="text-foreground/90">"Frontend Developer | React Js Developer"</span>,
                   <br />
                   &nbsp;&nbsp;specialty: <span className="text-foreground/90">"MERN Master"</span>
                   <br />
